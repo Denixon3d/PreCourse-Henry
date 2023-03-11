@@ -25,6 +25,3 @@ console.log(cajon1);
 let cajon2 = null;
 
 console.log(cajon2);
-
-//NaN
-
